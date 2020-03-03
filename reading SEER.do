@@ -152,7 +152,7 @@ infix PUBCSNUM      1-8 ///
 	str TNMEDNUM 390-391 ///
 	METSDXLN 392 ///
 	METSDXO 393 ///
-	using "C:\Users\sfos0300\OneDrive - Nexus365\Data files\SEER\SEER_1975_2016\SEER_1975_2016_TEXTDATA\incidence\yr1975_2016.seer9\MALEGEN.TXT"
+	using "|PATH|\|FILE|.TXT"
 ** in the |PATH| change it to the directory to where the 
 ** text files of SEER are
 ** in |file| - change it to the particular
